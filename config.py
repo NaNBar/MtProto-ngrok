@@ -21,4 +21,4 @@ TLS_DOMAIN = random.choice(
     ]
 )
 AUTHTOKEN = ""  # set to your ngrok's token
-# AD_TAG = "" # set to your ad tag
+AD_TAG = "6a121ef8cb42a837e4d3a6670dd19f3e"
